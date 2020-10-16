@@ -1,6 +1,3 @@
-# Author: Sina Tamari 
-# Website: sinatamari.pythonanywhere.com
-# Telegram: @sina_tamari
-# Email: cissp.it@gmail.com
+# PyNet v1.1
 
-# Required system: a debian base linux
+Explore devices in the Internet and find vulnerbilities ANONYMOUSLY and FAST using NMAP, MASSCAN, MULTITOR and get the graphical results with the power of IVRE
